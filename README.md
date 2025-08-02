@@ -1,0 +1,2 @@
+# WeakIDENT_on_ViscousBurgers_initialconditions_GaussianRandomField
+We employ WeakIDENT to recover the viscous Burgers’ equation from synthetic data. Training data are generated with an in-house high-order finite-difference solver that time-advances the viscous Burgers’ dynamics under periodic boundary conditions on the spatial domain $x \in [0,L]$. Initial conditions are generated from Gaussian random field.
